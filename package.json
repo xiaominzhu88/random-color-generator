@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/xiaominzhu88/random-color-generator.git",
   "author": "xiaomin zhu <xiaomin.zhu88@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "random-color": "^1.0.1",
+    "randomcolor": "^0.5.4",
+    "randomhexcode": "^1.0.3"
+  }
 }
