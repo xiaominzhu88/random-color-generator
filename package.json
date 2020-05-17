@@ -7,8 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.0.0",
-    "random-color": "^1.0.1",
-    "randomcolor": "^0.5.4",
-    "randomhexcode": "^1.0.3"
+    "randomcolor": "^0.5.4"
   }
 }
